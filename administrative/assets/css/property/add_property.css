@@ -1,0 +1,65 @@
+.upload-attach-file-task {
+    margin-top: 20px;
+}
+.property_image_area {
+    border: 1px solid #ccc;
+    padding-left: 25px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+}
+.custom_plus {
+    margin-top: -52px;
+    float: right !important;
+}
+.fileUpload {
+    position: relative;
+    overflow: hidden;
+    padding: 4px 12px;
+}
+
+.fileUpload input.upload {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+
+.btn_browse {
+    background-color: #fff;
+    border-color: #ccc;
+    color: #333;
+}
+.btn-defaultcustom {
+    background-color: #808080 !important;
+    border: 1px solid #808080 !important;
+    color: #fff !important;
+    border-radius: 4px !important;
+}
+
+.btn-defaultcustom:hover, .btn-defaultcustom:focus, .btn-defaultcustom:active, .btn-defaultcustom.active, .open .dropdown-toggle.btn-defaultcustom {
+    background-color: #ebebeb !important;
+    border-color: #adadad !important;
+    color: #333 !important;
+}
+.form-squeeze {
+    margin-left: 25px !important;
+}
+.custom_plus {
+    margin-top: -52px;
+    float: right !important;
+}
+.browse-section {
+    /*margin-left: 10px !important;*/
+}
+.form-control {
+    margin-bottom: 0px !important;
+}
+.star {
+    color: red;
+    font-size: 12px;
+}

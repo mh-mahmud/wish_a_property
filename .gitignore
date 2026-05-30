@@ -1,0 +1,23 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# IDE generated files #
+#######################
+.idea/*
+nbproject/*
+
+# Land_project files #
+#######################
+config/custom.php
+connect/dbconnect.php
+logs/*
+uploads/*
+docs/*
